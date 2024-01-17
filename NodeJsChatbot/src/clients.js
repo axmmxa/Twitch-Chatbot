@@ -11,7 +11,7 @@ const options0 = {
 		username: 'alextarifa0812',
 		password: 'oauth:iqucb1681s3gn6s4g2ze253ladzzol'
 	},
-    channels: [ 'AnneMunition' ]
+    channels: [ 'Vader' ]
 }
 
 const client0 = new tmi.client(options0)
